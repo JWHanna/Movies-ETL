@@ -1,3 +1,12 @@
+# Adding files that are too large for GitHub.
+credits.csv
+keywords.csv
+links_small.csv
+links.csv
+movies_metadata.csv
+ratings_small.csv
+ratings.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
